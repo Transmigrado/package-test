@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Transmigrado/package-test/issues"
   },
-  "homepage": "https://github.com/Transmigrado/package-test#readme"
+  "homepage": "https://github.com/Transmigrado/package-test#readme",
+  "publishConfig": {
+    "@transmigrado:registry": "https://npm.pkg.github.com"
+  }
 }
